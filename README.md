@@ -2,7 +2,7 @@
 
 ## Description
 
-A Java-based Student Grade Calculator developed with a Graphical User Interface (GUI). The application allows users to enter student details, subjects, and obtained marks. It automatically calculates the total marks, percentage, and final grade while displaying the results in a simple and interactive interface.
+A Java based Student Grade Calculator developed with a Graphical User Interface (GUI). The application allows users to enter student details, subjects, and obtained marks. It automatically calculates the total marks, percentage, and final grade while displaying the results in a simple and interactive interface.
 
 This project was developed as part of the **DecodeLabs Internship Program** to demonstrate Java programming, GUI development, user input handling, and grade calculation logic.
 
@@ -14,9 +14,9 @@ This project was developed as part of the **DecodeLabs Internship Program** to d
 - Automatically calculates total marks
 - Calculates percentage accurately
 - Assigns grades based on percentage
-- Color-coded grading system for better visualization
+- Color coded grading system for better visualization
 - Displays complete student result instantly
-- Simple, clean, and easy-to-use interface
+- Simple, clean, and easy to use interface
 
 ## Technologies Used
 
@@ -45,7 +45,7 @@ This project helped in understanding:
 
 ## Project Purpose
 
-The purpose of this project is to simplify student result calculation by providing an interactive Java GUI application that automatically calculates marks, percentage, and grades with a user-friendly interface.
+The purpose of this project is to simplify student result calculation by providing an interactive Java GUI application that automatically calculates marks, percentage, and grades with a user friendly interface.
 
 ## Author
 
